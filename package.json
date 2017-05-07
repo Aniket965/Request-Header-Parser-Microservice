@@ -1,0 +1,24 @@
+{
+  "name": "rhpm",
+  "version": "1.0.0",
+  "description": "api for getting client details",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/Request-Header-Parser-Microservice.git"
+  },
+  "author": "aniket965",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket965/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/Aniket965/Request-Header-Parser-Microservice#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "ua-parser-js": "^0.7.12"
+  }
+}
